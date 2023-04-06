@@ -1,0 +1,57 @@
+body {
+  background-color: #F4F5C3;
+  margin: 0px;
+}
+
+header {
+  display: flex;
+  background-color: #D9D9D9;
+}
+
+form {
+  width: 100%;
+}
+
+textarea {
+  width: 100%;
+  height: 340px;
+  padding: 8px; 
+  border-style: none;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+button {
+  float: right;
+  margin: 0px;
+  background-color: #D9D9D9;
+  color: #000;
+  border-radius: 25px;
+  border-style: none;
+  padding: 8px 16px;
+}
+
+.header-div {
+  display: flex;
+}
+
+#header-container {
+  display: flex;
+  width: 900px;
+  margin: auto;
+}
+
+#header-nav {
+  display: none;
+}
+
+#generator-section {
+  display: block;
+  width: 900px;
+  margin: auto;
+}
+
+#form-section {
+  display: flex;
+  width: 900px;
+}
