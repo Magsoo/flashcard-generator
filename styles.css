@@ -91,3 +91,44 @@ button {
   display: flex;
   width: 900px;
 }
+
+@media only screen and (max-width: 1000px) {
+  #header-container {
+    width: 500px;
+  }
+  #generator-section {
+    width: 500px;
+  }
+  #form-section {
+    width: 500px;
+  }
+}
+@media only screen and (max-width: 580px) {
+  h1 {
+    font-size: 20px;
+  }
+  h2 {
+    font-size: 16px;
+  }
+  p {
+    font-size: 12px;
+  }
+  textarea {
+    height: 150px;
+  }
+  label {
+    font-size: 12px;
+  }
+  button {
+    font-size: 8px;
+  }
+  #header-container {
+    width: 300px;
+  }
+  #generator-section {
+    width: 300px;
+  }
+  #form-section {
+    width: 300px;
+  }
+}
