@@ -9,11 +9,3 @@ To build a script that takes a text in a foreign language as input and generates
 4. Remove duplicates again
 5. Translate all words to target language (eng/nor)
 6. Generate flashcard file
-
-
-## Current TO-DO
-1. Add modal for "working..."
-2. Improve styling through improved fonts
-3. Add responsiveness
-4. Add possibility to open modal
-5. Add git
